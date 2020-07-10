@@ -50,7 +50,7 @@ header{
 	width: 100%;
 }
 .menu{
-	width: 50%;
+	width: 51%;
 	float: right;
 	/*border: 1px solid red;*/
 }
@@ -96,7 +96,7 @@ header{
     background: rgba(0,0,0,0.3);
 }
 .wrapper1{
-	width: 50%;
+	width: 55%;
     margin: 0 auto;
     position: relative;
     /*border: 1px solid red;*/
