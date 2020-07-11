@@ -281,7 +281,6 @@ header{
 }
 #talkbubble {
     width: 100%;
-    height: 175px;
     background: white;
     position: relative;
     float: right;
@@ -300,7 +299,7 @@ header{
 }
 .cust_details{
 	width: 60%;
-	margin: 36px auto;
+	margin: 4% auto;
 	/*border: 1px solid red;*/
 }
 .c_thought{
@@ -325,7 +324,6 @@ header{
 }
 #talkbubble_2 {
     width: 100%;
-    height: 175px;
     background: white;
     position: relative;
     float: left;
